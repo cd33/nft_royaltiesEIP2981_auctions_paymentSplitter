@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ArkaniaHomework/precache-manifest.ce3f169ac02a556d4252043cdb5a271d.js"
+  "/ArkaniaHomework/precache-manifest.fb8e498235dd0c45abd1492a69664dc3.js"
 );
 
 self.addEventListener('message', (event) => {

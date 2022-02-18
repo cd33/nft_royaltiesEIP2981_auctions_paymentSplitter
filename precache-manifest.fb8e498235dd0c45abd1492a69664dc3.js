@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22c7247ae64af67cbcc1808553033518",
+    "revision": "fa2f45f5ad2eb22642241cef019f2ae2",
     "url": "/ArkaniaHomework/index.html"
   },
   {
-    "revision": "98c04b3bc95768bbfa8c",
+    "revision": "95aeceb278a807f331ef",
     "url": "/ArkaniaHomework/static/css/main.4f572edc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ArkaniaHomework/static/js/2.37b74792.chunk.js"
   },
   {
-    "revision": "98c04b3bc95768bbfa8c",
-    "url": "/ArkaniaHomework/static/js/main.f0017e18.chunk.js"
+    "revision": "95aeceb278a807f331ef",
+    "url": "/ArkaniaHomework/static/js/main.be65377c.chunk.js"
   },
   {
     "revision": "e03b5c84a8e0de962b59",
