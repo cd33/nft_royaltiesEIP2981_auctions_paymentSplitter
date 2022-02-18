@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ArkaniaHomework/static/css/main.1f842768.chunk.css",
+    "main.js": "/ArkaniaHomework/static/js/main.74322630.chunk.js",
+    "main.js.map": "/ArkaniaHomework/static/js/main.74322630.chunk.js.map",
+    "runtime-main.js": "/ArkaniaHomework/static/js/runtime-main.e65f92b1.js",
+    "runtime-main.js.map": "/ArkaniaHomework/static/js/runtime-main.e65f92b1.js.map",
+    "static/js/2.7e056d32.chunk.js": "/ArkaniaHomework/static/js/2.7e056d32.chunk.js",
+    "static/js/2.7e056d32.chunk.js.map": "/ArkaniaHomework/static/js/2.7e056d32.chunk.js.map",
+    "index.html": "/ArkaniaHomework/index.html",
+    "precache-manifest.093a3cc12b396728d93b503fd653668a.js": "/ArkaniaHomework/precache-manifest.093a3cc12b396728d93b503fd653668a.js",
+    "service-worker.js": "/ArkaniaHomework/service-worker.js",
+    "static/css/main.1f842768.chunk.css.map": "/ArkaniaHomework/static/css/main.1f842768.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e65f92b1.js",
+    "static/js/2.7e056d32.chunk.js",
+    "static/css/main.1f842768.chunk.css",
+    "static/js/main.74322630.chunk.js"
+  ]
+}
