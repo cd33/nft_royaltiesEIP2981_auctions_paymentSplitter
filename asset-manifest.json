@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ArkaniaHomework/static/css/main.4f572edc.chunk.css",
-    "main.js": "/ArkaniaHomework/static/js/main.6d984c29.chunk.js",
-    "main.js.map": "/ArkaniaHomework/static/js/main.6d984c29.chunk.js.map",
+    "main.js": "/ArkaniaHomework/static/js/main.c4dfd85d.chunk.js",
+    "main.js.map": "/ArkaniaHomework/static/js/main.c4dfd85d.chunk.js.map",
     "runtime-main.js": "/ArkaniaHomework/static/js/runtime-main.841e1d33.js",
     "runtime-main.js.map": "/ArkaniaHomework/static/js/runtime-main.841e1d33.js.map",
     "static/js/2.37b74792.chunk.js": "/ArkaniaHomework/static/js/2.37b74792.chunk.js",
     "static/js/2.37b74792.chunk.js.map": "/ArkaniaHomework/static/js/2.37b74792.chunk.js.map",
     "index.html": "/ArkaniaHomework/index.html",
-    "precache-manifest.64a45c453b05dcb68402f7946f27d5e8.js": "/ArkaniaHomework/precache-manifest.64a45c453b05dcb68402f7946f27d5e8.js",
+    "precache-manifest.5215a9f3e0d3e81f01269cbd4e933b76.js": "/ArkaniaHomework/precache-manifest.5215a9f3e0d3e81f01269cbd4e933b76.js",
     "service-worker.js": "/ArkaniaHomework/service-worker.js",
     "static/css/main.4f572edc.chunk.css.map": "/ArkaniaHomework/static/css/main.4f572edc.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.841e1d33.js",
     "static/js/2.37b74792.chunk.js",
     "static/css/main.4f572edc.chunk.css",
-    "static/js/main.6d984c29.chunk.js"
+    "static/js/main.c4dfd85d.chunk.js"
   ]
 }
