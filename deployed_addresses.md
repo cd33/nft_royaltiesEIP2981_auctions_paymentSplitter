@@ -1,3 +1,3 @@
 # Rinkeby Testnet
-Payment: [0x6201bEcd0bB0C321cf894Ca7F6dD7a7dc5b86AF3](https://rinkeby.etherscan.io/address/0x6201bEcd0bB0C321cf894Ca7F6dD7a7dc5b86AF3)  
-ArkaniaNFT: [0xE6F39Aee1c5f8FDdD224620c366CDEE6312b0841](https://rinkeby.etherscan.io/address/0xE6F39Aee1c5f8FDdD224620c366CDEE6312b0841)  
+Payment: [0x7b1C4567ba8f29ACAA68b6B1EaB25096F985D445](https://rinkeby.etherscan.io/address/0x7b1C4567ba8f29ACAA68b6B1EaB25096F985D445)  
+ArkaniaNFT: [0xcc74e10194910C81923342907000962FCf8BA9Dc](https://rinkeby.etherscan.io/address/0xcc74e10194910C81923342907000962FCf8BA9Dc)  
