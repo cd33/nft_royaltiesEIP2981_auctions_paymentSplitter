@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ArkaniaHomework/static/css/main.62c1cdea.chunk.css",
-    "main.js": "/ArkaniaHomework/static/js/main.1859ab5b.chunk.js",
-    "main.js.map": "/ArkaniaHomework/static/js/main.1859ab5b.chunk.js.map",
-    "runtime-main.js": "/ArkaniaHomework/static/js/runtime-main.ecad0da3.js",
-    "runtime-main.js.map": "/ArkaniaHomework/static/js/runtime-main.ecad0da3.js.map",
-    "static/js/2.bd3b805d.chunk.js": "/ArkaniaHomework/static/js/2.bd3b805d.chunk.js",
-    "static/js/2.bd3b805d.chunk.js.map": "/ArkaniaHomework/static/js/2.bd3b805d.chunk.js.map",
-    "index.html": "/ArkaniaHomework/index.html",
-    "static/css/main.62c1cdea.chunk.css.map": "/ArkaniaHomework/static/css/main.62c1cdea.chunk.css.map",
-    "static/js/2.bd3b805d.chunk.js.LICENSE.txt": "/ArkaniaHomework/static/js/2.bd3b805d.chunk.js.LICENSE.txt"
+    "main.css": "/nft_royaltiesEIP2981_auctions_paymentSplitter/static/css/main.62c1cdea.chunk.css",
+    "main.js": "/nft_royaltiesEIP2981_auctions_paymentSplitter/static/js/main.e435594b.chunk.js",
+    "main.js.map": "/nft_royaltiesEIP2981_auctions_paymentSplitter/static/js/main.e435594b.chunk.js.map",
+    "runtime-main.js": "/nft_royaltiesEIP2981_auctions_paymentSplitter/static/js/runtime-main.eedd9fa8.js",
+    "runtime-main.js.map": "/nft_royaltiesEIP2981_auctions_paymentSplitter/static/js/runtime-main.eedd9fa8.js.map",
+    "static/js/2.aecedfb3.chunk.js": "/nft_royaltiesEIP2981_auctions_paymentSplitter/static/js/2.aecedfb3.chunk.js",
+    "static/js/2.aecedfb3.chunk.js.map": "/nft_royaltiesEIP2981_auctions_paymentSplitter/static/js/2.aecedfb3.chunk.js.map",
+    "index.html": "/nft_royaltiesEIP2981_auctions_paymentSplitter/index.html",
+    "static/css/main.62c1cdea.chunk.css.map": "/nft_royaltiesEIP2981_auctions_paymentSplitter/static/css/main.62c1cdea.chunk.css.map",
+    "static/js/2.aecedfb3.chunk.js.LICENSE.txt": "/nft_royaltiesEIP2981_auctions_paymentSplitter/static/js/2.aecedfb3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ecad0da3.js",
-    "static/js/2.bd3b805d.chunk.js",
+    "static/js/runtime-main.eedd9fa8.js",
+    "static/js/2.aecedfb3.chunk.js",
     "static/css/main.62c1cdea.chunk.css",
-    "static/js/main.1859ab5b.chunk.js"
+    "static/js/main.e435594b.chunk.js"
   ]
 }
